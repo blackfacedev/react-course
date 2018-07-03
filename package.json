@@ -1,0 +1,22 @@
+{
+  "name": "react-course",
+  "version": "1.0.0",
+  "description": "Learning React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackfacedev/react-course.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Marcel Assis <marcel@marcelassis.com> (http://www.marcelassis.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blackfacedev/react-course/issues"
+  },
+  "homepage": "https://github.com/blackfacedev/react-course#readme"
+}
